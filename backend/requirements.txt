@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+python-multipart
+groq
+python-dotenv
+email-validator
